@@ -44,16 +44,16 @@
           "groupName": "Basic",
           "list": [
             {
+              "path": "/zybColor",
+              "title": "Color 色彩"
+            },
+            {
               "path": "/layout",
               "title": "Layout 布局"
             },
             {
               "path": "/container",
               "title": "Container 布局容器"
-            },
-            {
-              "path": "/color",
-              "title": "Color 色彩"
             },
             {
               "path": "/typography",
@@ -66,6 +66,31 @@
             {
               "path": "/button",
               "title": "Button 按钮"
+            }
+          ]
+        },
+        {
+          "groupName": "Navigation",
+          "list": [
+            {
+              "path": "/menu",
+              "title": "NavMenu 导航菜单"
+            },
+            {
+              "path": "/tabs",
+              "title": "Tabs 标签页"
+            },
+            {
+              "path": "/breadcrumb",
+              "title": "Breadcrumb 面包屑"
+            },
+            {
+              "path": "/dropdown",
+              "title": "Dropdown 下拉菜单"
+            },
+            {
+              "path": "/steps",
+              "title": "Steps 步骤条"
             }
           ]
         },
@@ -192,31 +217,7 @@
             }
           ]
         },
-        {
-          "groupName": "Navigation",
-          "list": [
-            {
-              "path": "/menu",
-              "title": "NavMenu 导航菜单"
-            },
-            {
-              "path": "/tabs",
-              "title": "Tabs 标签页"
-            },
-            {
-              "path": "/breadcrumb",
-              "title": "Breadcrumb 面包屑"
-            },
-            {
-              "path": "/dropdown",
-              "title": "Dropdown 下拉菜单"
-            },
-            {
-              "path": "/steps",
-              "title": "Steps 步骤条"
-            }
-          ]
-        },
+       
         {
           "groupName": "Others",
           "list": [
